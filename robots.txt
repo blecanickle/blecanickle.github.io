@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://blecanickle.github.io/sitemap.html
+Sitemap: https://blecanickle.github.io/app/sitemap.html
+Sitemap: https://blecanickle.github.io/assets/sitemap.html
+Sitemap: https://blecanickle.github.io/css/sitemap.html
+Sitemap: https://blecanickle.github.io/includes/sitemap.html
+Sitemap: https://blecanickle.github.io/item/sitemap.html
+Sitemap: https://blecanickle.github.io/src/sitemap.html
